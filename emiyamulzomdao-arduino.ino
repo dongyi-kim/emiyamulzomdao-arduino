@@ -1,4 +1,6 @@
 #include <SHT1x.h>
+#include "ArduinoThread/Thread.h"
+#include "ArduinoThread/ThreadController.h"
 
 #define DataPin 14
 #define ClockPin 15
